@@ -20,10 +20,10 @@ Do <a href="https://www.rocketseat.com.br/explorer" target="_blank">Explorer</a>
 <br>
 
 <p align="center">
-  <video alt="video do projeto biscoito da sorte" src="./src/biscoito_da_sorte.mp4" width="100%">
+  https://github.com/RodrigoApOliveira/biscoito_da_sorte/assets/106288092/470862f6-f93a-4c22-969b-f2feb4128a19
 </p>
 
-https://github.com/RodrigoApOliveira/biscoito_da_sorte/assets/106288092/470862f6-f93a-4c22-969b-f2feb4128a19
+
 
 
 
