@@ -23,6 +23,10 @@ Do <a href="https://www.rocketseat.com.br/explorer" target="_blank">Explorer</a>
   <video alt="video do projeto biscoito da sorte" src="./src/biscoito_da_sorte.mp4" width="100%">
 </p>
 
+https://github.com/RodrigoApOliveira/biscoito_da_sorte/assets/106288092/470862f6-f93a-4c22-969b-f2feb4128a19
+
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
