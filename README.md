@@ -13,14 +13,17 @@ Do <a href="https://www.rocketseat.com.br/explorer" target="_blank">Explorer</a>
   <a href="#memo-licença">Licença</a>
 </p>
 
+<p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
 
 <br>
 
-<p align="center">
+
+
   https://github.com/RodrigoApOliveira/biscoito_da_sorte/assets/106288092/470862f6-f93a-4c22-969b-f2feb4128a19
-</p>
+
 
 
 
